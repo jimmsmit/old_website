@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jim Smit"
   avatar           : "profile.png"
-  bio              : "PhD Candidate, working towards Data-Driven Decision support in the ICU. | Causal Inference | Machine Learning | Artificial Intelligence |"
-  location         : "Intensive Care, Erasmus Medical Center, Rotterdam, The Netherlands"
+  bio              : "PhD Candidate, Intensive Care, Erasmus MC. | Causal Inference | Machine Learning | Artificial Intelligence |"
+  location         : "Rotterdam, The Netherlands"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=jim+smit"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=vYRPFsEAAAAJ&view_op=list_works&sortby=pubdate"
