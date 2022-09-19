@@ -2,7 +2,7 @@
 title: "Dynamic mortality prediction"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'Dynamic mortality prediction for COVID-19 patients in the ICU'
+excerpt: 'Traditional risk stratification scores like APACHE IV offer a prediction for survival for ICU patients at ICU admission. We present a new, dynamic mortality prediction model, specifically for COVID-19 patients, that offers updated mortality predictions trhoughout the ICU admission.'
 date: 2022-08-06
 venue: 'Intelligence based medicine'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/35958674/'

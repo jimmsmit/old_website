@@ -16,7 +16,18 @@ I finished my BSc ([Clincal Technology](https://www.tudelft.nl/onderwijs/opleidi
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
-New paper out! Dynamic mortality prediction in the ICU
+New paper out! Dynamic model updating for Early Warning in COVID-19 patients.
+======
+We present an early warning model specifically for COVID-19 patients, showing a better predictive performance compared to traditional Early Warning Scores, ie the National early warning score aka [NEWS](https://pubmed.ncbi.nlm.nih.gov/23295778/) and the Modified early warning score aka [MEWS](https://pubmed.ncbi.nlm.nih.gov/11588210/).
+
+<b>Dynamic model updating</b>: We performed a temporal validation by splitting all included patients into groups admitted before and after August 1, 2020. We simulated the situation in which the model would have been developed after the first and implemented during the second COVID-19 ‘wave’ in the Netherlands. We experimented with different model updating strategies, combining model refitting and hospital specific re-calibration (figure). 
+
+<br/><img src='/images/model_updating.jpg' width="700" height="500">
+
+Read all about it in our [paper](https://pubmed.ncbi.nlm.nih.gov/35958674/) published in [ICMx](https://icm-experimental.springeropen.com/)!
+
+
+Dynamic mortality prediction in the ICU
 ======
 Traditional risk scores like [APACHE IV](https://pubmed.ncbi.nlm.nih.gov/16540951/) provide mortality risk stratification for ICU patients upon admission. Our new study presents a model for dynamic risk stratification throughout the whole ICU stay, validated in the [Dutch Data Warehouse](https://ccforum.biomedcentral.com/articles/10.1186/s13054-021-03733-z) dataset, with more than 3000 COVID-19 patients admitted to 25 different ICUs in the Netherlands.
 
