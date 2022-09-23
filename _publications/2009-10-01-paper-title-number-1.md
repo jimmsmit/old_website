@@ -7,8 +7,12 @@ excerpt: 'We wrote a letter to the Editor of Critical Care to discuss Machine Le
 date: 2021-12-23
 venue: 'Critical Care'
 paperurl: 'https://ccforum.biomedcentral.com/articles/10.1186/s13054-021-03868-z'
-citation: 'Smit JM, van Genderen ME, Reinders MJT, et al. Demystifying machine learning for mortality prediction. <i>Crit Care</i> 2021;25:4–5.'
+#citation: 'Smit JM, van Genderen ME, Reinders MJT, et al. Demystifying machine learning for mortality prediction. <i>Crit Care</i> 2021;25:4–5.'
 ---
+<br/><img src='/images/CC_cover.jpg'>
+
+Link to [paper]('https://ccforum.biomedcentral.com/articles/10.1186/s13054-021-03868-z').
+
 Various papers present 'machine learning (ML) models' as complex models that can outperform 'traditional statistical models', such as [<i>Banoei and collegues</i>](https://ccforum.biomedcentral.com/articles/10.1186/s13054-021-03749-5) in their model for mortality published in <i>Crit Care</i>. On the other hand, the community [warns](https://www.nature.com/articles/s41591-022-01961-6) for overuse and misuse of ML models, recommending to always benmchmark your performance with "traditional statistical" models.
 
 But where do we draw the line between ML and statistical models? Should we draw one in the first place?
