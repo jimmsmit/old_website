@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am a second-year PhD candidate in <b>artificial intelligence (AI)</b> at the Intensive Care department, Erasmus Medical Center, Rotterdam, the Netherlands. 
-Our lab, the [Datahub](https://datahub.health/), works towards data-driven decision support in the intensive care unit. Supervised by Diederik Gommers, Jasper van Bommel and Michel van Genderen, our studies vary from live-dashboarding for health quality monitoring to prediction modeling and complex <b>'actionable AI'</b> through <b>Causal Inference</b>. We work together with the Pattern Recognition and Bioinformatics laboratory (Computer Science department Delft University of Technology), where I am supervised by Jesse Krijthe and Marcel Reinders. Recently, I have been systematically reviewing Causal Inference research in the ICU, discuss quality of these studies and give recommendations for future work towards 'actionable' AI in the ICU.
+Our lab, the [Datahub](https://datahub.health/), works towards data-driven decision support in the intensive care unit. Supervised by Diederik Gommers, Jasper van Bommel and Michel van Genderen, our studies vary from live-dashboarding for health quality monitoring to prediction modeling and complex <b>'actionable AI'</b> through <b>Causal Inference</b>. We work together with the Pattern Recognition and Bioinformatics laboratory (Computer Science department Delft University of Technology), where I am supervised by Jesse Krijthe and Marcel Reinders. 
 
 I finished my BSc ([Clincal Technology](https://www.tudelft.nl/onderwijs/opleidingen/bachelors/kt/bsc-klinische-technologie)) and MSc ([Biomedical Engineering](https://www.tudelft.nl/onderwijs/opleidingen/masters/biomedical-engineering/msc-biomedical-engineering)) at Delft University of Technology.
 
@@ -16,6 +16,10 @@ I finished my BSc ([Clincal Technology](https://www.tudelft.nl/onderwijs/opleidi
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
+
+Preprint on MedrXiv!
+======
+Recently, we have been systematically reviewing Causal Inference research in the ICU, discuss quality of these studies and give recommendations for future work towards 'actionable' AI in the ICU. Check out the preprint [here](https://www.medrxiv.org/content/10.1101/2022.10.29.22281684v1)!
 
 New paper out! Dynamic model updating for Early Warning in COVID-19 patients.
 ======

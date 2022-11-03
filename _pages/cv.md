@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://jimmsmit.github.io/files/CV_jim_smit.pdf" type="application/pdf" />
+<embed src="https://jimmsmit.github.io/files/CV_jim_smit_Nov_2022.pdf" type="application/pdf" />
 
 <!-- Education
 ======
